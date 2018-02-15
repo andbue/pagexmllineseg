@@ -9,3 +9,5 @@ How to use:
 from pagexmllineseg import pagexmllineseg
 pagexmllineseg("larexoutput.xml")
 ```
+
+Most lines in the file are taken from https://github.com/mittagessen/kraken/blob/master/kraken/pageseg.py
